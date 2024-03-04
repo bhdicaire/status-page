@@ -18,8 +18,6 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.bhdicaire.com)
-
 ## 📄 License
 
 - Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com), supported by [Pabio](https://pabio.com)
