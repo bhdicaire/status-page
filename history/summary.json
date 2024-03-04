@@ -4,18 +4,20 @@
     "url": "https://BHDicaire.com",
     "icon": "https://Dicaire.com/favicon.png",
     "slug": "www-bh-dicaire-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 173,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
-    "dailyMinutesDown": {}
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
+    "dailyMinutesDown": {
+      "2024-03-04": 0
+    }
   },
   {
     "name": "DNS – syeef.ns.Cloudflare.com",
