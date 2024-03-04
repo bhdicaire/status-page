@@ -24,7 +24,7 @@ status-website:
     - title: Zoom
       href: https://status.zoom.us/
   customBodyHtml: "<script src='https://cdn.usefathom.com/script.js' data-site='BEWPUJUT' defer></script>"
-  themeUrl: https://status.dicaire.com/dcom.css
+  themeUrl: https://status.bhdicaire.com/dcom.css
 
 sites:
   - name: 'www.BHDicaire.com'
